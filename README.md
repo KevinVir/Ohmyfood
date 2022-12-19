@@ -14,6 +14,26 @@ Ohmyfood est une jeune startup qui voudrait s'imposer sur le marché de la resta
 
 ## Contenu des pages
 
+### Couleurs
+
+<ul>
+  <li>Primaire: #9356DC</li>
+  <li>Secondaire: #FF79DA</li>
+  <li>Tertiaire: #99E2D0</li>
+</ul>
+
+### Compatibilités
+La cible étant les personnes connectées et pressées, le site sera développé en utilisant
+l’approche mobile-first. Pour cette raison, seules des maquettes mobiles seront réalisées.</br>
+Sur tablette et desktop, le site devra s’adapter, mais ces supports n’étant pas prioritaires,
+leur mise en page est libre.
+<ul>
+<li>L’ensemble du site devra être responsive sur mobile, tablette et desktop.</li>
+<li>Les pages devront passer la validation W3C en HTML et CSS sans erreur.</li>
+<li>Le site doit être parfaitement compatible avec les dernières versions desktop de
+Chrome et Firefox.</li>
+</ul>
+
 ### Page d'accueil
 <ul>
   <li>Affichage de la localisation des restaurants. À terme il sera possible de choisir sa
@@ -85,24 +105,4 @@ des points de suspension. Un exemple de l’effet attendu est fourni.</li>
 <ul>
   <li>Logo et titres: Shrikhand</li>
   <li>Texte: Roboto</li>
-</ul>
-
-### Couleurs
-
-<ul>
-  <li>Primaire: #9356DC</li>
-  <li>Secondaire: #FF79DA</li>
-  <li>Tertiaire: #99E2D0</li>
-</ul>
-
-### Compatibilités
-La cible étant les personnes connectées et pressées, le site sera développé en utilisant
-l’approche mobile-first. Pour cette raison, seules des maquettes mobiles seront réalisées.</br>
-Sur tablette et desktop, le site devra s’adapter, mais ces supports n’étant pas prioritaires,
-leur mise en page est libre.
-<ul>
-<li>L’ensemble du site devra être responsive sur mobile, tablette et desktop.</li>
-<li>Les pages devront passer la validation W3C en HTML et CSS sans erreur.</li>
-<li>Le site doit être parfaitement compatible avec les dernières versions desktop de
-Chrome et Firefox.</li>
 </ul>
